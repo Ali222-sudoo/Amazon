@@ -19,7 +19,7 @@
 }
 .logo{
     background-image: url(1.png);
-    color: white;
+    background-color: white;
     height: 50px;
     width: 100px;
     background-size: cover ;
