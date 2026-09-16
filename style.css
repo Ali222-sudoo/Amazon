@@ -21,10 +21,14 @@
 }
 .logo{
     background-image: url(1.png);
+    background-size: cover ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: white;
     height: 50px;
     width: 100px;
-    background-size: cover ;
+    
 }
 .border{
     border: 1.5px solid transparent;
@@ -57,7 +61,7 @@
     margin-left: 5px;
     width: 620px;
     height: 40px;
-    
+    align-items: center;    
     justify-content: center;
     
 }
